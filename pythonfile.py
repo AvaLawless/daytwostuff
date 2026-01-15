@@ -20,3 +20,6 @@ pd.read_csv('/workspaces/daytwostuff/google-tesla.csv')
 #
 # Review the capabilities, what are three useful elements of Data Wrangler?
 # Data wrangler allows you to clean and visualize large datasets, integrates with pandas, and allows you to export code for data transformations.
+#
+# Why do we have a requirements.txt file?
+# The requirements.txt file shows users what dependencies they have installed in their coding environments. It shows people what they will need to run the code effectively. 
